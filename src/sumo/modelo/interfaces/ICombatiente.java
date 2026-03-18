@@ -1,6 +1,6 @@
 package sumo.modelo.interfaces;
 
-import sumo.modelo.Kimarite;
+import co.edu.udistrital.sumo.model.Kimarite;
 
 /**
  * Contrato que define las capacidades de un combatiente de sumo (rikishi).
